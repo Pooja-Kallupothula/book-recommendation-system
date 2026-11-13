@@ -21,6 +21,8 @@ The project uses the **Book-Crossing Dataset**, downloaded from Kaggle.
 The dataset contains information about books, users and ratings.
 
 The dataset files are not included in this repository. Download the dataset from Kaggle and place the required CSV files in the appropriate data folder.
+Link to Kaggle Dataset --> saved to Downloads folder
+https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset
 
 ## Technologies Used
 
