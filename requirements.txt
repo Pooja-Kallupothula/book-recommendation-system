@@ -1,0 +1,10 @@
+Python Libraries you require 
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+
+The dataset you require :
+Dataset Source: Book-Crossing Dataset – Kaggle
